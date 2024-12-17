@@ -1,0 +1,23 @@
+{
+    "CastleName": "Default",
+    "CastleCost": 0.0,
+    "BarArray": [],
+    "PointArray": [
+            {
+            "_pointId": 0,
+            "PointId": {
+                "x": -3.0,
+                "y": 0.0
+            },
+            "ConnectedBars": []
+        },
+        {
+            "_pointId": 0,
+            "PointId": {
+                "x": 3.0,
+                "y": 0.0
+            },
+            "ConnectedBars": []
+        }
+    ]
+}
